@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CleanArchWitCQRSAndMediator.API.props" />
+</Project>

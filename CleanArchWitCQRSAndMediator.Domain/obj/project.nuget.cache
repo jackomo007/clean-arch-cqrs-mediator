@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIDy8u83U8m4vdyXPkkzq4RtgeqknKWsal2y4ZTth8rXvsKPpA/02Ucqmav8ahTSwB5n04B1nzEiGR+ODhi7iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jealc\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\jealc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jealc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

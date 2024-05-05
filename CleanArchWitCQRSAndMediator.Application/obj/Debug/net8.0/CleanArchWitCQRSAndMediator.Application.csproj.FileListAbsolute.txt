@@ -1,0 +1,15 @@
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.deps.json
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.dll
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.pdb
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.dll
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.pdb
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.csproj.AssemblyReference.cache
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.AssemblyInfoInputs.cache
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.AssemblyInfo.cs
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.csproj.CoreCompileInputs.cache
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArc.258B68ED.Up2Date
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.dll
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\refint\CleanArchWitCQRSAndMediator.Application.dll
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Application.pdb
+C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Application\obj\Debug\net8.0\ref\CleanArchWitCQRSAndMediator.Application.dll
