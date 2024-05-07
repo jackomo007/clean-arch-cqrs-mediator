@@ -10,3 +10,16 @@ C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMedia
 C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\refint\CleanArchWitCQRSAndMediator.Domain.dll
 C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.pdb
 C:\Users\jealc\source\repos\CleanArchWitCQRSAndMediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\ref\CleanArchWitCQRSAndMediator.Domain.dll
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.deps.json
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.dll
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.pdb
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.csproj.AssemblyReference.cache
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.AssemblyInfoInputs.cache
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.AssemblyInfo.cs
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.sourcelink.json
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.dll
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\refint\CleanArchWitCQRSAndMediator.Domain.dll
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Domain.pdb
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Domain\obj\Debug\net8.0\ref\CleanArchWitCQRSAndMediator.Domain.dll

@@ -1,12 +1,135 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|solutionrelative:cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|solutionrelative:cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|solutionrelative:cleanarchwitcqrsandmediator.application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|solutionrelative:cleanarchwitcqrsandmediator.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\getmoviequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D669204-F0BA-440F-AA5E-4E5CE0DD8927}|CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj|solutionrelative:cleanarchwitcqrsandmediator.application\\movies\\queries\\getmovies\\getmoviequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD0E1-CB32-45C4-B62E-BF2EADC83952}|CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.domain\\entity\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFAD0E1-CB32-45C4-B62E-BF2EADC83952}|CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj|solutionrelative:cleanarchwitcqrsandmediator.domain\\entity\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD0E1-CB32-45C4-B62E-BF2EADC83952}|CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj|c:\\users\\jealc\\documents\\projects\\clean-arch-cqrs-mediator\\cleanarchwitcqrsandmediator.domain\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFAD0E1-CB32-45C4-B62E-BF2EADC83952}|CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj|solutionrelative:cleanarchwitcqrsandmediator.domain\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:30:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\IMapFrom.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Application\\Common\\Mappings\\IMapFrom.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:28:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetMovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQueryHandler.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:08:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMovieQuery.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQuery.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQuery.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\GetMovieQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:06:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieVm.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\MovieVm.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\MovieVm.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\MovieVm.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Application\\Movies\\Queries\\GetMovies\\MovieVm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:03:36.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Domain\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Domain\\Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:57:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\Entity\\Movie.cs",
+              "RelativeDocumentMoniker": "CleanArchWitCQRSAndMediator.Domain\\Entity\\Movie.cs",
+              "ToolTip": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\Entity\\Movie.cs",
+              "RelativeToolTip": "CleanArchWitCQRSAndMediator.Domain\\Entity\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:54:46.342Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

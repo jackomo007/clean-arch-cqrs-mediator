@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cIDy8u83U8m4vdyXPkkzq4RtgeqknKWsal2y4ZTth8rXvsKPpA/02Ucqmav8ahTSwB5n04B1nzEiGR+ODhi7iw==",
+  "dgSpecHash": "/sY2yfSAaoBE/yGIzQDk9SdRvEZb8KwyPVXlfUR/JPFbRBc1CFELw13UXzWIGky77CvzFdm91i9pSmlrTtjT8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jealc\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\jealc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

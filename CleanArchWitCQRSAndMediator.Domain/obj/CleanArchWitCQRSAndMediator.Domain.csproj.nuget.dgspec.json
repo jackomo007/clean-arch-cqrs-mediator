@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj": {}
+    "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj": {
+    "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
         "projectName": "CleanArchWitCQRSAndMediator.Domain",
-        "projectPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
+        "projectPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\CleanArchWitCQRSAndMediator.Domain.csproj",
         "packagesPath": "C:\\Users\\jealc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jealc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u3VdvooP0wzvggGAu4h9yJcSKizKxNaVMNuU5XgX0wdUEcR4W0ysyY6UtDyfpLVcSZMn5/xPUzM4O9kYZjaF5w==",
+  "dgSpecHash": "JM4nPtKsye0pUz/9TaouXQP5HfLrFAsrAAYKXFBI6SyksTDT+l2gsbAzx7xu/+8KePDnXzWCXahDAXoMe6hnYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.API\\CleanArchWitCQRSAndMediator.API.csproj",
+  "projectFilePath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.API\\CleanArchWitCQRSAndMediator.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jealc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jealc\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",

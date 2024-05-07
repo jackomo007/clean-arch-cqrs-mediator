@@ -400,11 +400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Infra\\CleanArchWitCQRSAndMediator.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Infra\\CleanArchWitCQRSAndMediator.Infra.csproj",
       "projectName": "CleanArchWitCQRSAndMediator.Infra",
-      "projectPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Infra\\CleanArchWitCQRSAndMediator.Infra.csproj",
+      "projectPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Infra\\CleanArchWitCQRSAndMediator.Infra.csproj",
       "packagesPath": "C:\\Users\\jealc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Infra\\obj\\",
+      "outputPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jealc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -421,8 +421,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj": {
-              "projectPath": "C:\\Users\\jealc\\source\\repos\\CleanArchWitCQRSAndMediator\\CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj"
+            "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj": {
+              "projectPath": "C:\\Users\\jealc\\Documents\\PROJECTS\\clean-arch-cqrs-mediator\\CleanArchWitCQRSAndMediator.Application\\CleanArchWitCQRSAndMediator.Application.csproj"
             }
           }
         }
