@@ -1,14 +1,13 @@
-﻿using CleanArchWitCQRSAndMediator.Application.Common.Mappings;
-using CleanArchWitCQRSAndMediator.Domain.Entity;
+﻿using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchWitCQRSAndMediator.Application.Movies.Queries.GetMovies
+namespace CleanArchWitCQRSAndMediator.Application.Movies.Commands.UpdateMovie
 {
-    public class MovieVm: IMapFrom<Movie>
+    public class UpdateMovieCommand: IRequest<int>
     {
         public int Id { get; set; }
         public string Title { get; set; }

@@ -9,9 +9,6 @@
   <ItemGroup>
     <Folder Include="Common\Behaviours\" />
     <Folder Include="Common\Exceptions\" />
-    <Folder Include="Movies\Commands\CreateMovie\" />
-    <Folder Include="Movies\Commands\DeleteMovie\" />
-    <Folder Include="Movies\Commands\UpdateMovie\" />
   </ItemGroup>
 
   <ItemGroup>
