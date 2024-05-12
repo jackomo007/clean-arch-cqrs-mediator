@@ -33,3 +33,5 @@ C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMe
 C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Infra\obj\Debug\net8.0\refint\CleanArchWitCQRSAndMediator.Infra.dll
 C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Infra\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Infra.pdb
 C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Infra\obj\Debug\net8.0\ref\CleanArchWitCQRSAndMediator.Infra.dll
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Infra\bin\Debug\net8.0\CleanArchWitCQRSAndMediator.Infra.runtimeconfig.json
+C:\Users\jealc\Documents\PROJECTS\clean-arch-cqrs-mediator\CleanArchWitCQRSAndMediator.Infra\obj\Debug\net8.0\CleanArchWitCQRSAndMediator.Infra.genruntimeconfig.cache

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchWitCQRSAndMediator.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41c30c3658fa918ff9a8d5c1179ffe3b1ed22a4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0d35a06863fa80efb0d3d326cc1692d99877f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchWitCQRSAndMediator.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchWitCQRSAndMediator.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
