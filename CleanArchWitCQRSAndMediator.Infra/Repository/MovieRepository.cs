@@ -41,7 +41,7 @@ namespace CleanArchWitCQRSAndMediator.Infra.Repository
         {
             return await _movieDbContext.Movies
                 .AsNoTracking()
-                .FirstOrDefaultAsync(model => model.Id == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
         }
 
         public async Task<int> UpdateAsync(int id, Movie movie)

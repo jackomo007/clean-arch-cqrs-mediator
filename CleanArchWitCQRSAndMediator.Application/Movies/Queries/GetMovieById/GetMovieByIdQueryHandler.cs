@@ -25,7 +25,7 @@ namespace CleanArchWitCQRSAndMediator.Application.Movies.Queries.GetMovieById
 
         public async Task<MovieVm> Handle(GetMovieByIdQuery request, CancellationToken cancellationToken)
         {
-            var movie = _movieRepository.GetMovieByIdAsync(request.MovieId);
+            var movie = await _movieRepository.GetMovieByIdAsync(request.MovieId);
             return _mapper.Map<MovieVm>(movie);
         }
     }
