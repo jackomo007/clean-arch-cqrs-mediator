@@ -20,7 +20,14 @@ namespace CleanArchWitCQRSAndMediator.Application.Movies.Commands.UpdateMovie
 
         public async Task<int> Handle(UpdateMovieCommand request, CancellationToken cancellationToken)
         {
-            var UpdateMovieEntity = new Movie();
+            var UpdateMovieEntity = new Movie()
+            {
+                Id = request.Id,
+                Title = request.Title,
+                Description = request.Description,
+                Author = request.Author,
+                ImageUrl = request.ImageUrl,
+            };
             return await _movieRepository.UpdateAsync(request.Id, UpdateMovieEntity);
         }
     }
